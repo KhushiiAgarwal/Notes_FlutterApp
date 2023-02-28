@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467792096398",
+    "project_id": "authentikate-56d50",
+    "storage_bucket": "authentikate-56d50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467792096398:android:b0281a46d290097f30eddf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467792096398-08bdpv8s13l4qt2rvn1e75hs2vjvi67h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7d_sDJhwLzpNpIN-q4uSo15jQS8TDRGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467792096398-08bdpv8s13l4qt2rvn1e75hs2vjvi67h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
